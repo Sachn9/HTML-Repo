@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pragraph</title>
+</head>
+<body>
+    <!-- Absoulate Image -->
+    <img src="https://tiimg.tistatic.com/fp/1/007/669/yellow-cover-rectangular-single-line-a4-size-white-paper-spiral-notebook-with-224-pages-650.jpg" alt="Notebook" />
+    <br>
+    <!-- Relative Image(local desktop me) -->
+    <img src="/notebook copy.jpg" alt="Note Book" height="200" />
+</body>
+</html>
