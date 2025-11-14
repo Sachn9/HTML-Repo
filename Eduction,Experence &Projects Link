@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home Page</title>
+</head>
+<body>
+    <hr/>
+    <a href="Eduction.html">Eduction</a>
+    <hr/>
+    <img src="Experience.jpeg" alt="Image" height="200"/>
+    <hr/>
+    <a href="https://github.com/Sachn9/InstaMart-Backend">Project</a>
+    <hr/>
+</body>
+</html>
