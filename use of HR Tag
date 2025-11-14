@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pragraph</title>
+</head>
+<body>
+    <hr/>
+    <a href="/Hello.html">Go to Hello</a>
+    <hr/>
+    <img src="notebook copy.jpg" alt="NoteBook" height="200"/>
+    <hr/>
+    <p>This is a pragraph1!</p>
+    <hr/>
+    <p>This is a pragraph2!</p>
+    <hr/>
+</body>
+</html>
