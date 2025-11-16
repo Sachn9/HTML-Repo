@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My First page</title>
+</head>
+<body>
+    <Header>
+        <pre>
+            <hr/>
+            <h1>My Portfolio</h1>
+            <hr>
+        </pre>
+    </Header>
+
+    <main>
+        <!-- <Section>Information : Sachin Kumar | Innocent Boy</Section>
+        <section>Eduction : B.Tech(2024) | MIET Meerut</section>
+        <section>Experiences : TCS Training | Java | Microsoft</section>
+        <article> My Story : I am doing hard working but i am not achieveing job.</article>
+        <a href="https://google.com" target="main">
+            <img src="https://img.freepik.com/free-psd/google-icon-isolated-3d-render-illustration_47987-9777.jpg?semt=ais_hybrid&w=740&q=80" alt="Google"
+            height="50"/>
+        </a>
+        <Aside> This is an ad</Aside>
+        <hr> -->
+
+        <!-- <div>
+            <p>Hello World</p>
+            <p>Namaste</p>
+            <p>Hi</p>
+        </div> 
+
+        <div>
+            <p>Bye</p>
+            <p>GoodBye</p> 
+            <p>Ciao</p>
+        </div> -->
+
+        <span>Hello world</span>
+    </main>
+
+    <footer>
+        <h5>Contact me at hello@ac.com</h5>
+    </footer>
+</body>
+</html>
