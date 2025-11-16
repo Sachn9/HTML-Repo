@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Project</title>
+</head>
+<body>
+    <header>
+        <hr>
+        <h1>My portfolio</h1>
+        <hr>
+    </header>
+
+    <main>
+        <section>Information : Sachin kumar | Innocent Boy</section>
+        <hr>
+        <Section>Eduction : B.Tech | Computer Science ane Engineering</Section>
+        <hr>
+        <section>Experience : Tcs Tarining | java | Microsoft</section>
+        <a href="https://github.com/Sachn9" target="main">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/2048px-Github-desktop-logo-symbol.svg.png" alt="GitHub"
+            height="70"/>
+        </a>
+    </main>
+</body>
+</html>
