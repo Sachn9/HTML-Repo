@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Project</title>
+</head>
+<body>
+    <table>
+        <tr>
+            <th>
+                Name
+            </th>
+            <th>
+                Roll No
+            </th>
+        </tr>
+
+        <tr>
+            <td>
+                Sachin Kumar
+            </td>
+            <td>
+                1234
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Upendra Kumar
+            </td>
+            <td>
+                1235
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Arvind Kumar
+            </td>
+            <td>
+                1236
+            </td>
+        </tr>
+    </table>
+</body>
+</html>
