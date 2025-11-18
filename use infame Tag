@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Project</title>
+</head>
+<body>
+    <!-- <h2>Registration Form</h2>
+    <form action="/action.php">
+        <input type="text" placeholder="name">
+        <br><br>
+        <input type="texr" placeholder="Fill your emaiId">
+        <br><br>
+        <input type="password" placeholder="password">
+        <br>
+        <h2>Select your Class</h2>
+        <label for="101">
+            <input type="radio" value="class XI" name="class" id="101">class XI
+        </label>    
+        <br><br>
+        <label for="102">
+            <input type="radio" value="class XII" name="class" id="102">class XII
+        </label>  
+        <br>
+
+        <h2>Select your favourite Subject</h2>
+        <label for="Math">
+            <input type="checkbox" value="Math" name="Subject" id="Math">Math
+        </label>
+        <br><br>
+        <label for="Physics">
+            <input type="checkbox" value="Physics" name="Subject" id="Physics">Physics
+        </label>
+        <br><br>
+         <label for="Chemistry">
+            <input type="checkbox" value="Chemistry" name="Subject" id="Chemistry">Chemistry
+        </label>
+        <br><br>
+         <label for="CS">
+            <input type="checkbox" value="CS" name="Subject" id="CS">Computer Science
+        </label>
+        <br><br>
+        Select your city
+        <select name="city">
+            <option value="Delhi">Delhi</option>
+            <option value="Mumbai">Mumbai</option>
+            <option value="Uttar pardash">UP</option>
+            <option value="Banglore">Banglore</option>
+        </select>
+        <br><br>
+        <textarea name="feedback" id="101" placeholder="please give your valuable feedback here" rows="5"></textarea>
+        <br>
+        <input type="submit" value="submit">
+    </form> -->
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/j-_Mrtl6QKo?si=OBzt5RHgbo5tFV41" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <br><br>
+    <iframe width="560" height="315" src="https://www.wikipedia.org/"></iframe>
+</body>
+</html> 
