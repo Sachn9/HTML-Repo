@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student Registration Form</title>
+</head>
+<body>
+    <h2>Student Registration Form</h2>
+    <hr>
+    <form action="/action.php">
+        <p>Student Name</p>
+        <input type="text" placeholder="First">
+        <input tyoe="text" placeholder="last">
+        <br>
+        <p>Date of Birth</p>
+        <input type="date">
+        <br>
+        <p>Gender</p>
+        <label for="101">
+            <input type="radio" value="Male" name="Gender" id="101">Male
+        </label>
+
+         <label for="102">
+            <input type="radio" value="Female" name="Gender" id="102">Female
+        </label>
+        <p>Address</p>
+        <input type="text" placeholder="Street Address">
+        <br><br>
+        <input type="text" placeholder="Street Address Line 2">
+        <br><br>
+        <select name="city" id="city">
+            <option value="Delhi">Delhi</option>
+            <option value="Channi">Channi</option>
+            <option value="Bangloru">Bangloru</option>
+            <option value="Uttar Pardash">UP</option>
+            <option value="Mumbai">Mumbai</option>
+        </select>
+        <input type="text" placeholder="Region">
+        <br><br>
+        <input type="text" placeholder="Postal / Zip Code">
+        <select name="Country" id="Country">
+            <option value="India">India</option>
+            <option value="America">America</option>
+            <option value="Chaina">Chaina</option>
+            <option value="England">England</option>
+            <option value="Tokio">Tokio</option>
+
+        </select>
+        <p>Email</p>
+        <input type="text" placeholder="Enter your Email">
+        <p>Phone Number</p>
+        <input type="text" placeholder="Enter your Phone Number">
+        <p>Select Your Class</p>
+        <label for="10">
+            <input type="radio" value="Class XI" name="class" id="10">Class XI
+        </label>
+        <label for="11">
+            <input type="radio" value="Class XII" name="class" id="11">Class XII
+        </label>
+        <p>Slecet Your Favourite Subject</p>
+        <label for="English">
+            <input type="checkbox" value="English" name="Subject" id="English">English
+        </label>
+        <label for="Math">
+            <input type="checkbox" value="Math" name="Subject" id="Math">Math
+        </label>
+        <label for="Physics">
+            <input type="checkbox" value="Physics" name="Subject" id="Physics">Physics
+        </label>
+        <label for="Chemistry">
+            <input type="checkbox" value="Chemistry" name="Subject" id="Chemistry">Chemistry
+        </label>
+        <label for="Hindi">
+            <input type="checkbox" value="Hindi" name="Subject" id="Hindi">Hindi
+        </label>
+        <label for="Computer science">
+            <input type="checkbox" value="Computer science" name="Subject" id="Computer science">Computer science
+        </label>
+        <label for="Biology">
+            <input type="checkbox" value="Biology" name="Subject" id="Biology">Biology
+        </label>
+        <br><br>
+        <textarea name="Feedback" id="101" placeholder="Please give your feedback here!" rows="5"></textarea>
+        <br><br>
+        <button type="submit">Submit</button>
+
+    </form>
+</body>
+</html>
