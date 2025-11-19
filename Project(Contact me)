@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Project</title>
+</head>
+<body>
+    <h2>Contact me</h2>
+    <p> Feel free to reach out for collaborations or projects enquiries</p>
+    <br>
+    <form action="/action.php">
+        <input type="text" placeholder="Enter your Name">
+        <br><br>
+        <input type="email" placeholder="Enter your Email">
+        <br><br>
+        <textarea rows="5" placeholder="Type yor message"></textarea>
+        <br><br>
+        <button type="submit">send message</button>
+    </form>
+</body>
+</html>
